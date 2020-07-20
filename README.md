@@ -1,7 +1,7 @@
 [![stepanowon's github stats](https://github-readme-stats.vercel.app/api?username=stepanowon)](https://github.com/stepanowon/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstepanowon)](https://hits.seeyoufarm.com)
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+[![HitCount](http://hits.dwyl.io/stepanowon/badges.svg)](http://hits.dwyl.io/stepanowon/badges)
 
 ### Software engineer, AAI(AWS Authorized Instructor)
 
