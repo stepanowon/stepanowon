@@ -6,7 +6,8 @@
 
 ### I am interested in...
 * Computer Programming(Node.js, Java, Python, Python, ...)
-* AWS, Azure, GCP
+* AWS Champion AAI(Amazon Authorized Instructor)
+* GCP, Azure
 * NOSQL Database(DynamoDB, MongoDB, Cassandra, ...)
 * Front-End Framework(Vue, React, Svelte, ...)
 
