@@ -5,11 +5,14 @@
 ### Software engineer, AAI(AWS Authorized Instructor)
 
 ### I am interested in...
-* Computer Programming(Node.js, Java, Python, Python, ...)
+* Computer Programming(Node.js, Java, Python, ...)
 * AWS Champion AAI(Amazon Authorized Instructor)
 * GCP, Azure
 * NOSQL Database(DynamoDB, MongoDB, Cassandra, ...)
 * Front-End Framework(Vue, React, Svelte, ...)
+* docker, kubernetes
+* CI/CD
+* MSA(Micro Service Architecture)
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/stepanowon)](https://www.facebook.com/stepanowon)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stepanowon@gmail.com)](mailto:stepanowon@gmail.com)
